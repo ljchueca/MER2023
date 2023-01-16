@@ -12,7 +12,7 @@
 5. Navigate to your home directory
 6. Make a new directory called **"unix_intro"**
 7. Navigate into the **"unix_intro"** directory
-8. $${\color{red}Red}$$
+8. Navigate to **/home/$${\color{red}Red}$$username$${\color{red}Red}$$/EHU_Genomic_data** $${\color{red}Red}$$
 ````
 git status
 
