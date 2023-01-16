@@ -5,4 +5,7 @@ Master MER
 
 Exercise 1
 
-`git status
+````
+git status
+
+
