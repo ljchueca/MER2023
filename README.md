@@ -8,4 +8,10 @@ Exercise 1
 ````
 git status
 
+````
 
+Exercise 2
+
+````
+
+awk
