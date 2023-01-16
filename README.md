@@ -28,10 +28,11 @@ awk
 1) Save the first line of the file "WatsonCrikck1953.txt" as "papertittle.txt"
 2) Save the remaining lines as "mainbody.txt"
 
-<details><summary>CLICK ME</summary>
+<details><summary>SOLUTION</summary>
 <p>
-````
+```
 head -1 WatsonCrick1953.txt > papertitle.txt
 tail -n +2 WatsonCrick1953.txt > mainbody.txt
+```
 </p>
 </details>
