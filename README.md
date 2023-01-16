@@ -1,5 +1,5 @@
-#### MER2023
-Master MER
+# Marine Resources Genomics 2023
+
 
 # Introduction to Unix
 
