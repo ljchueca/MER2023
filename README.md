@@ -12,8 +12,10 @@
 5. Navigate to your home directory
 6. Make a new directory called **"unix_intro"**
 7. Navigate into the **"unix_intro"** directory
+
 <details><summary>SOLUTION</summary>
 <p>
+  
 ```
 pwd
 ls
