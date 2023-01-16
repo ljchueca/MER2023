@@ -20,9 +20,7 @@ git status
 **Exercise 2**
 
 ````
-
 awk
-
 ````
 **Exercise 3**
 1) Save the first line of the file "WatsonCrikck1953.txt" as "papertittle.txt"
@@ -34,7 +32,6 @@ awk
 ```
 head -1 WatsonCrick1953.txt > papertitle.txt
 tail -n +2 WatsonCrick1953.txt > mainbody.txt
-  
 ```
 </p>
 </details>
