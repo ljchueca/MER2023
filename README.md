@@ -3,21 +3,21 @@
 
 # Introduction to Unix
 
-Exercise 1
+****Exercise 1****
 
 ````
 git status
 
 ````
 
-Exercise 2
+****Exercise 2****
 
 ````
 
 awk
 
 ````
-###Exercise 3
+***Exercise 3***
 1) Save the first line of the file "WatsonCrikck1953.txt" as "papertittle.txt"
 2) Save the remaining lines as "mainbody.txt"
 
