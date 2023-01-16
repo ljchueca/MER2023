@@ -28,10 +28,31 @@ cd /unix_intro
 </details>
 
 **Exercise 2**
+1. Create a textfile called "delete_me.txt"
+2. Create a directory called "delete_me"
+3. Move "delete_me.txt" to "delete_me"
+4. Delete the directory
 
-````
-awk
-````
+<details><summary>SOLUTION</summary>
+<p>
+  
+```
+touch delete_me.txt
+```
+
+```
+mkdir delete_me
+```
+```
+mv delete_me.txt delete_me
+``` 
+```
+rm -r delete_me
+```
+  
+</p>
+</details>
+
 **Exercise 3**
 1) Save the first line of the file "WatsonCrikck1953.txt" as "papertittle.txt"
 2) Save the remaining lines as "mainbody.txt"
