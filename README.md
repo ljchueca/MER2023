@@ -81,3 +81,20 @@ tail -n +2 WatsonCrick1953.txt > mainbody.txt
 ```
 </p>
 </details>
+
+**Exercise 4**
+1) How many values are in "numbers.list" file?
+2) How many unique values are in "numbers.list" file?
+
+<details><summary>SOLUTION</summary>
+<p>
+  
+```
+wc -l numbers.list
+```
+
+```
+uniq numbers.list | wc -l
+```
+</p>
+</details>
