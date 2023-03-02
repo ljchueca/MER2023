@@ -1,14 +1,14 @@
 # Marine Resources Genomics 2023
 
 
-# Introduction to Unix
+# Introduction to Linux
 
 **Exercise 1**
 
 1. Open your terminal
 2. What's the path to your current directory?
 3. How many folders does this directory contain?
-4. Navigate to **/home/username/EHU_Genomic_data**
+4. Navigate to **/home/username/ehu_genomic_data**
 5. Navigate to your home directory
 6. Make a new directory called **"linux_intro"**
 7. Navigate into the **"linux_intro"** directory
