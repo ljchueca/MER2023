@@ -10,8 +10,8 @@
 3. How many folders does this directory contain?
 4. Navigate to **/home/username/EHU_Genomic_data**
 5. Navigate to your home directory
-6. Make a new directory called **"unix_intro"**
-7. Navigate into the **"unix_intro"** directory
+6. Make a new directory called **"linux_intro"**
+7. Navigate into the **"linux_intro"** directory
 
 <details><summary>SOLUTION</summary>
 <p>
