@@ -25,16 +25,16 @@ ls
 ```
   
 ```
-cd /home/ikasle01/EHU_Genomic_data
+cd /home/ikasle01/ehu_Genomic_data
 ```
 ```
 cd
 ```
 ```
-mkdir unix_intro
+mkdir linux_intro
 ```
 ```
-cd /unix_intro
+cd /linux_intro
 ```
 </p>
 </details>
