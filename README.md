@@ -25,7 +25,7 @@ ls
 ```
   
 ```
-cd /home/ikasle01/ehu_Genomic_data
+cd /home/ikasle01/ehu_genomic_data
 ```
 ```
 cd
