@@ -18,10 +18,22 @@
   
 ```
 pwd
+```
+  
+```
 ls
+```
+  
+```
 cd /home/ikasle01/EHU_Genomic_data
+```
+```
 cd
+```
+```
 mkdir unix_intro
+```
+```
 cd /unix_intro
 ```
 </p>
