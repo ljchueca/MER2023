@@ -1,4 +1,4 @@
-# Marine Resources Genomics 2023
+# Marine Resources Genomics 2024
 
 
 # Introduction to Linux
