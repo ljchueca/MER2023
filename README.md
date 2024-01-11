@@ -1,7 +1,7 @@
 # Marine Resources Genomics 2024
 
 
-# Introduction to Linux
+# Introduction to GNU/Linux
 
 **Exercise 1**
 
