@@ -3,6 +3,18 @@
 
 # Introduction to GNU/Linux
 
+
+Load an interactive mode in Arina cluster
+
+```
+ssh -Y ikasle01@kalk2020.lgp.ehu.es
+```
+
+
+```
+interactive -n 4 -p vfast -r mer1
+````
+
 **Exercise 1**
 
 1. Open your terminal
