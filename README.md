@@ -94,7 +94,7 @@ wc -l numbers.list
 ```
 
 ```
-uniq numbers.list | wc -l
+sort -u numbers.list | wc -l
 ```
 </p>
 </details>
