@@ -20,7 +20,7 @@ interactive -n 4 -p vfast -r mer1
 1. Open your terminal
 2. What's the path to your current directory?
 3. How many folders does this directory contain?
-4. Navigate to **/home/username/gscratch/MER2024/ehu_genomic_data**
+4. Navigate to **/home/username/MER2024/ehu_genomic_data**
 5. Navigate to your home directory
 6. Make a new directory called **"linux_intro"**
 7. Navigate into the **"linux_intro"** directory
@@ -37,7 +37,7 @@ ls
 ```
   
 ```
-cd /home/username/gscratch/MER2023/ehu_genomic_data
+cd /home/username/MER2024/ehu_genomic_data
 ```
 ```
 cd
